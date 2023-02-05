@@ -6,3 +6,5 @@ A repo of all my Aurora Projects
 2. Connecting to an existing Amazon RDS MySQL Database via RDS Proxy - 1 https://dev.to/aws-builders/connecting-to-an-existing-amazon-rds-mysql-database-via-rds-proxy-1-3936
 
 3. Connecting to an existing Amazon RDS MySQL Database via RDS Proxy - 2 https://dev.to/aws-builders/connecting-to-an-existing-amazon-rds-mysql-database-via-rds-proxy-2-gd4
+
+4. Doing failover in Amazon Aurora Read Replica with the highest priority https://dev.to/aws-builders/doing-failover-in-amazon-aurora-read-replica-with-the-highest-priority-4okb
